@@ -8,7 +8,7 @@ IEEE Transactions on Consumer Electronics
 
 # 🔮 Dataset
 
-The comprehensive benchmark dataset is available at [Kaggle](https://www.kaggle.com/datasets/xuhangc/underwaterbenchmarkdataset).
+The dataset is available at [Kaggle](https://www.kaggle.com/datasets/xuhangc/underwaterbenchmarkdataset).
 
 # ⚙️ Usage
 
