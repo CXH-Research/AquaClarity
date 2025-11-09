@@ -39,7 +39,8 @@ python test.py
 
 # 💗 Acknowledgement
 
-This work was supported in part by Shenzhen Medical Research Fund (Grant No. A2503006), in part by the National Natural Science Foundation of China (Grant No. 62501412 and 62272313), in part by Shenzhen Polytechnic University Research Fund (Grant No. 6025310023K), in part by Medical Scientific Research Foundation of Guangdong Province (Grant No. B2025610 and B2023012), in part by the Science and Technology Development Fund, Macau SAR, under Grant 0193/2023/RIA3 and 0079/2025/AFJ.
+This work was supported in part by Shenzhen Medical Research Fund (Grant No. A2503006), in part by the National Natural Science Foundation of China (Grant No. 62501412 and 62272313), in part by Shenzhen Polytechnic University Research Fund (Grant No. 6025310023K), in part by the Science and Technology Development Fund, Macau SAR, under Grant 0193/2023/RIA3 and 0079/2025/AFJ and and in part by Guangdong Basic and Applied Basic Research Foundation (Grant No. 2024A1515140010).
+
 # 🛎 Citation
 
 If you find our work helpful for your research, please cite:
