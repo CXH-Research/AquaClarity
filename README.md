@@ -1,6 +1,6 @@
 # AquaClarity: Vision Transformer Enhances Underwater Image via Nonlinear Feature Fusion and Color Fidelity Improvement
 
-[Xuhang Chen](https://cxh.netlify.app/), Zimeng Li📮, Xiujun Zhang, Yingtie Lei, Yihang Dong, Xiaofeng Zhang, [Chi-Man Pun](https://www.cis.um.edu.mo/~cmpun/) ( 📮 Corresponding authors)
+[Xuhang Chen](https://cxh.netlify.app/), Zimeng Li📮, Xiujun Zhang, Yingtie Lei, Yihang Dong, Xiaofeng Zhang, [Chi-Man Pun](https://www.cis.um.edu.mo/~cmpun/) ( 📮 Corresponding author)
 
 **Huizhou University, Shenzhen Polytechnic University, University of Macau, SIAT CAS, Shanghai Jiao Tong University**
 
