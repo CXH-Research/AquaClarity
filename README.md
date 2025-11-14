@@ -44,3 +44,15 @@ This work was supported in part by Shenzhen Medical Research Fund (Grant No. A25
 # 🛎 Citation
 
 If you find our work helpful for your research, please cite:
+```bib
+@ARTICLE{11242133,
+  author={Chen, Xuhang and Li, Zimeng and Zhang, Xiujun and Lei, Yingtie and Dong, Yihang and Zhang, Xiaofeng and Pun, Chi-Man},
+  journal={IEEE Transactions on Consumer Electronics}, 
+  title={AquaClarity: Vision Transformer Enhances Underwater Image via Nonlinear Feature Fusion and Color Fidelity Improvement}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCE.2025.3631911}
+}
+```
